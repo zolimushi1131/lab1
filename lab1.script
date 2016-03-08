@@ -1,0 +1,23 @@
+命令稿啟動於 2016年03月 8日 下午 09:30:20
+]0;/git
+[32muser@x455LF [33m/git[0m
+$ whoami; pwd
+user
+/git
+]0;/git
+[32muser@x455LF [33m/git[0m
+$ git config -l
+]0;/git
+[32muser@x455LF [33m/git[0m
+$ git clone https://github.com/zolimushi1131/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+]0;/git
+[32muser@x455LF [33m/git[0m
+$ exit
+
+命令稿已於 2016年03月 8日 下午 09:31:28
+ 完成
